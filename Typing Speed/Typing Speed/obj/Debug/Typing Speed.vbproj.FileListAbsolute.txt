@@ -1,0 +1,14 @@
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.exe.config
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.exe
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.pdb
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.xml
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing_Speed.Form1.resources
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing_Speed.Resources.resources
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.vbproj.GenerateResource.Cache
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.exe
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.xml
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.pdb
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.exe.manifest
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Debug\Typing Speed.application
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.exe.manifest
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Debug\Typing Speed.application

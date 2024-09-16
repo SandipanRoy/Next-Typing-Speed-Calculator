@@ -1,0 +1,22 @@
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\Typing Speed.vbproj.GenerateResource.Cache
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.exe.config
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.exe.manifest
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.application
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.exe
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.pdb
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\bin\Release\NEXT TYPING SPEED.xml
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\Form1.resources
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\Resources.resources
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.exe.manifest
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.application
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.exe
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.xml
+C:\Users\Sandipan\Desktop\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.pdb
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\Typing Speed.vbproj.AssemblyReference.cache
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\Form1.resources
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\Resources.resources
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\Typing Speed.vbproj.GenerateResource.cache
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\Typing Speed.vbproj.CoreCompileInputs.cache
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.exe
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.xml
+F:\My Projects\NEXT TYPING SPEED\Typing Speed\Typing Speed\obj\Release\NEXT TYPING SPEED.pdb
